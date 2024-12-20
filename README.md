@@ -1,12 +1,12 @@
 
+<h1 align="left">Hi 👋, I'm SARVESH BHOYAR</h1>
+<h3 align="left">Web Developer, Student at IIT DHANBAD</h3>
 
-<img align="rigth" src="https://wallpaperaccess.com/full/667742.jpg" alt="">
+<img  align="center" width="800" src="https://wallpaperaccess.com/full/667742.jpg" alt="">
 
 
 
     
-<h1 align="left">Hi 👋, I'm SARVESH BHOYAR</h1>
-<h3 align="left">Web Developer, Student at IIT DHANBAD</h3>
  
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="">
