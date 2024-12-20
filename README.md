@@ -1,10 +1,17 @@
+
+
+<img align="rigth" src="https://wallpaperaccess.com/full/667742.jpg" alt="">
+
+
+
+    
 <h1 align="left">Hi 👋, I'm SARVESH BHOYAR</h1>
 <h3 align="left">Web Developer, Student at IIT DHANBAD</h3>
-<div align="left" >
+ 
 
-<img src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
+<img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
   
-</div>
+
 
 <p align="left"> <a href="https://twitter.com/sarveshbhoyar10" target="blank"><img src="https://img.shields.io/twitter/follow/sarveshbhoyar10?logo=twitter&style=for-the-badge" alt="sarveshbhoyar10" /></a> </p>
 
