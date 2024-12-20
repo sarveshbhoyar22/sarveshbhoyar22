@@ -9,7 +9,7 @@
 <h3 align="left">Web Developer, Student at IIT DHANBAD</h3>
  
 
-<img align="right" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="">
+<img align="right" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="">
   
 
 
