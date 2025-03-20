@@ -15,9 +15,9 @@
 
 <p align="left"> <a href="https://twitter.com/sarveshbhoyar10" target="blank"><img src="https://img.shields.io/twitter/follow/sarveshbhoyar10?logo=twitter&style=for-the-badge" alt="sarveshbhoyar10" /></a> </p>
 
-- 🔭 I’m currently working on [OPENCHAT-APP-MERN](https://github.com/sarveshbhoyar22/OPENCHAT-APP-MERN)
+- 🔭 I’m currently working on [MERN_BANK_SYSTEM](https://github.com/sarveshbhoyar22/MERN-BANK-SYSTEM)
 
-- 🌱 I’m currently learning **Upgrading my Frontend and Backend Skills**
+- 🌱 I’m  learning and **Upgrading my Frontend and Backend Skills**
 
 - 📝 I regularly write articles on [https://www.linkedin.com/newsletters/7054860024942125056/](https://www.linkedin.com/newsletters/7054860024942125056/)
 
