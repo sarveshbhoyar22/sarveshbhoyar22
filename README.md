@@ -2,7 +2,7 @@
 <h1 align="left">Hi 👋, I'm Sarvesh Bhoyar</h1>
 <h3 align="left">Full-Stack Web Developer | B.Tech @ IIT (ISM) Dhanbad </h3>
 
-<img align="center" width="800" src="https://wallpaperaccess.com/full/667742.jpg" alt="banner"/>
+<img align="center" width="400" src="https://wallpaperaccess.com/full/667742.jpg" alt="banner"/>
 
 <p align="left">
   <a href="https://twitter.com/sarveshbhoyar10" target="_blank">
