@@ -123,38 +123,8 @@ const sarvesh = {
 
 ---
 
-## 🎯 Current Journey
 
-\`\`\`yaml
-Learning:
-  - System Design & Architecture
-  - Artificial Intelligence & Machine Learning
-  - Advanced Image Processing
-  - Cloud Technologies (AWS, Docker)
 
-Building:
-  - Scalable MERN Applications
-  - Real-time Communication Systems
-  - AI-Powered Web Applications
-  - Open Source Contributions
-
-Goals_2024:
-  - Contribute to Major Open Source Projects
-  - Build Production-Ready Applications
-  - Master Advanced Problem-Solving Patterns
-  - Expand AI/ML Knowledge Base
-\`\`\`
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🚀 [Building Scalable MERN Applications: Best Practices](https://your-blog-link.com)
-- 💡 [From Civil Engineering to Full-Stack Development: My Journey](https://your-blog-link.com)
-- 🎨 [Modern UI/UX Trends in Web Development](https://your-blog-link.com)
-- 🔧 [Optimizing React Applications for Better Performance](https://your-blog-link.com)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
