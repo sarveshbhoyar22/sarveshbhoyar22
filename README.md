@@ -115,8 +115,6 @@ const sarvesh = {
 | **💻 Coding** | 200+ DSA Problems Solved | ✅ Completed |
 | **🚀 Projects** | 10+ Full-Stack Applications | ✅ Completed |
 | **🎨 Design** | 20+ UI/UX Design Projects | ✅ Completed |
-| **🎓 Academic** | GPA 7.23/10 at IIT (ISM) | 📈 Ongoing |
-| **🤝 Community** | Taught 30+ Underprivileged Kids | ❤️ Ongoing |
 | **🌟 Leadership** | ASTC Astronomy Club Contributor | 🔭 Active |
 
 </div>
