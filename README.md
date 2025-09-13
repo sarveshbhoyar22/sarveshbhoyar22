@@ -29,17 +29,6 @@
 - 🏆 **Hackathon Participant** at HackFest'24
 - 🌟 **Community Contributor** at ASTC Astronomy Club
 
-\`\`\`javascript
-const sarvesh = {
-    location: "Dhanbad, India",
-    education: "IIT (ISM) Dhanbad",
-    currentlyLearning: ["System Design", "AI/ML", "Image Processing"],
-    askMeAbout: ["Web Development", "React", "Node.js", "MongoDB"],
-    funFact: "From Civil Engineering to Code - proving passion beats background! 🏗️➡️💻"
-};
-\`\`\`
-
----
 
 ## 🛠️ Tech Arsenal
 
